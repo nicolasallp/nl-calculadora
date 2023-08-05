@@ -1,0 +1,65 @@
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Form1.resources
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe.config
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.pdb
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.exe
+C:\Users\Aluno\Desktop\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.pdb
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe.config
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.pdb
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.AssemblyReference.cache
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Form1.resources
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Properties.Resources.resources
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.GenerateResource.cache
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.exe
+F:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.pdb
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe.config
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.pdb
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.AssemblyReference.cache
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Form1.resources
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Properties.Resources.resources
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.GenerateResource.cache
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.exe
+E:\ETEC\Modulo-2\DS\Exemplo_Calculadora\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.pdb
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe.config
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.pdb
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.AssemblyReference.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Form1.resources
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Properties.Resources.resources
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.GenerateResource.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.exe
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.pdb
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe.config
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.pdb
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.AssemblyReference.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Form1.resources
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Properties.Resources.resources
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.GenerateResource.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.exe
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.pdb
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe.config
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.exe
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\bin\Debug\Exemplo_Calculadora.pdb
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.AssemblyReference.cache
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Form1.resources
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.Properties.Resources.resources
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.GenerateResource.cache
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.exe
+C:\Users\nikot\Documents\MyProjects\Calculator\Exemplo_Calculadora\obj\Debug\Exemplo_Calculadora.pdb

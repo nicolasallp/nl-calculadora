@@ -1,0 +1,22 @@
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\bin\Release\Exemplo_Calculadora.exe.config
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\bin\Release\Exemplo_Calculadora.exe
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\bin\Release\Exemplo_Calculadora.pdb
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.AssemblyReference.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.Form1.resources
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.Properties.Resources.resources
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.GenerateResource.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.exe
+E:\ETEC\Modulo-2\DS\Calculator\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.pdb
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\bin\Release\Exemplo_Calculadora.exe.config
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\bin\Release\Exemplo_Calculadora.exe
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\bin\Release\Exemplo_Calculadora.pdb
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.AssemblyReference.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.Form1.resources
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.Properties.Resources.resources
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.GenerateResource.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.exe
+C:\Users\nikot\Documents\NL_Projects\Calculadora Simples\Exemplo_Calculadora\obj\Release\Exemplo_Calculadora.pdb
